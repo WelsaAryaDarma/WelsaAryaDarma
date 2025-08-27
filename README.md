@@ -1,7 +1,9 @@
 # 💫 About Me:
 
 # 👋 Hello World!, I’m Welsa Arya Darma  
-![MCR](img/mcr.jpg)  
+<p align="center">
+  <img src="img/a7x.jpg" alt="MCR" width="100%">
+</p> 
 🎓 I’m an undergraduate student at **Universitas Muhammadiyah Riau**, majoring in Informatics.  
 💻 Passionate about **Web Development**, especially with **Laravel, PHP, and JavaScript**.  
 🚀 I love learning new technologies, solving problems, and building useful applications.  
@@ -54,5 +56,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WelsaAryaDarma&icon=4&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Contribution Snake
+
+![snake gif](https://github.com/WelsaAryaDarma/WelsaAryaDarma/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/WelsaAryaDarma/WelsaAryaDarma/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
