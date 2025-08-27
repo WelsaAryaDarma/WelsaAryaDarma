@@ -1,5 +1,35 @@
 # 💫 About Me:
-# 👋 Hello World!, I’m Welsa Arya Darma  <br>![A7X](img/mcr.jpg)<br>🎓 I’m an undergraduate student at **Universitas Muhammadiyah Riau**, majoring in Informatics.  <br>💻 Passionate about **Web Development**, especially with **Laravel, PHP, and JavaScript**.  <br>🚀 I love learning new technologies, solving problems, and building useful applications.  <br><br>---<br><br>## 🔧 Tech Stack<br>- **Languages**: PHP, JavaScript, HTML, CSS  <br>- **Frameworks**: Laravel, Bootstrap, React Js, Vite  <br>- **Tools**: Git, VS Code, MySQL  <br><br>---<br><br>## 📌 Current Projects<br>- 📂 **Webabsensi** – Laravel-based web application for attendance  <br>- 📂 **PPDB** – Online registration system with Laravel & jQuery  <br>- 📂 **Portfolio Website** – Personal portfolio built with Laravel  <br><br>---<br>  <br><br>---<br><br>## 📫 How to reach me<br>- ✉️ Email: [ariyasilangkitang@gmail.com]<br><br>---<br>✨ *“Code is like humor. When you have to explain it, it’s bad.”*  <br>
+
+# 👋 Hello World!, I’m Welsa Arya Darma  
+![MCR](img/mcr.jpg)  
+🎓 I’m an undergraduate student at **Universitas Muhammadiyah Riau**, majoring in Informatics.  
+💻 Passionate about **Web Development**, especially with **Laravel, PHP, and JavaScript**.  
+🚀 I love learning new technologies, solving problems, and building useful applications.  
+
+---
+
+## 🔧 Tech Stack
+- **Languages**: PHP, JavaScript, HTML, CSS  
+- **Frameworks**: Laravel, Bootstrap, React Js, Vite  
+- **Tools**: Git, VS Code, MySQL  
+
+---
+
+## 📌 Current Projects
+- 📂 **Webabsensi** – Laravel-based web application for attendance  
+- 📂 **PPDB** – Online registration system with Laravel & jQuery  
+- 📂 **Portfolio Website** – Personal portfolio built with Laravel  
+
+---
+
+## 📫 How to reach me
+- ✉️ Email: [ariyasilangkitang@gmail.com]  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+---
 
 
 
